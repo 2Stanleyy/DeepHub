@@ -11,6 +11,5 @@ cd the-hub
 npm install react react-dom
 npm install --save-dev @babel/plugin-proposal-private-property-in-object
 
-3. Run the Application
-BE SURE UR PATH LOOKS LIKE /deep/the-hub
+3. Run the Application from deep/the-hub
 npm start
