@@ -1,11 +1,10 @@
-🛠️ Setup InstructionsREAL SLUG SHIT
+🛠️ Setup Instructions
 DOWNLOAD GIT https://git-scm.com/
 DOWNLOAD NODE.JS for npm https://nodejs.org/en
 1. Clone the Repository
 
 git clone https://github.com/2Stanleyy/DeepHub.git
 
-(Replace the URL with your repository’s HTTPS or SSH URL)
 2. Install Dependencies
 cd deep
 cd the-hub
